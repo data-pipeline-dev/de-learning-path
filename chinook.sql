@@ -1,5 +1,3 @@
-SET search_path TO chinook;
-
 CREATE TABLE "Album"
 (
     "AlbumId" INT NOT NULL,

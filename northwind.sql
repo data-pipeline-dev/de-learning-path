@@ -1,6 +1,3 @@
-SET search_path TO northwind;
-
-
 ---
 --- drop tables
 ---
